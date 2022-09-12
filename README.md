@@ -20,7 +20,7 @@ Comming soon
 ### APK
 Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/musicr.apk)
 ```
-https://github.com/dtrung98/Source/raw/master/musicr.apk
+https://github.com/abansa22/Source/raw/master/musicr.apk
 ```
 ## Screenshots
 </br>
@@ -67,7 +67,7 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
 
 ## Authors
 
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
+* **Ajitesh Bansal (ldt)** - *Initial work* - [abansa22](https://github.com/abansa22)
 
 
 ### License
